@@ -1,34 +1,21 @@
-# Marches
+﻿# Marches
 
-A **march** is a troop movement between two points on the world map.
+March capacity currently starts at **1 active march slot**. March size is then scaled through **Drill Grounds** upgrades.
+| Drill Grounds level | Power | March size |
+| --- | --- | --- |
+| 1 | 40 | 3,000 |
+| 5 | 950 | 11,600 |
+| 10 | 8,490 | 24,600 |
+| 15 | 28,450 | 40,100 |
+| 20 | 82,970 | 58,100 |
+| 25 | 198,810 | 78,600 |
+| 30 | 416,040 | 101,600 |
 
-## Common march types
-A march may be used to:
-- gather resources
-- attack monsters
-- join a rally
-- reinforce a structure
-- return to your city
+## March utility items
 
-## How it works
-A march has:
-- an origin
-- a destination
-- a travel time
-- a troop composition
-- a purpose
+| Item | Effect | Gold alternative | Rarity |
+| --- | --- | --- | --- |
+| March Recall | Instantly recalls active troops | 50 | Rare |
+| Speed Up March 25% | Reduce remaining time by 25% | 600 | Rare |
+| Speed Up March 50% | Reduce remaining time by 50% | 1,000 | Legendary |
 
-## Travel rule
-Travel continues even while the player is offline.
-
-## What is allowed
-You may send a march only if:
-- the target is valid
-- the troops are available
-- the march slot is available
-- all requirements are met
-
-## What is not allowed
-You may not:
-- use the same troops in another action while they are marching
-- send a march to an invalid target

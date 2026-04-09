@@ -1,22 +1,50 @@
-# Monsters
+﻿# Monsters
 
-## Overview
-Monsters are PvE targets placed on the world map.
+Monster encounters currently span **levels 1-30** across **9 monster families**.
+| Monster family | Level range |
+| --- | --- |
+| Skeleton | 1-2 |
+| Centaur | 3-5 |
+| Wildling | 6-11 |
+| Lava Giant | 12-17 |
+| Griffin | 18-23 |
+| Fallen Skeleton | 24-25 |
+| Fallen Centaur | 26-27 |
+| Fallen Wildling | 28-29 |
+| Fallen Lava Giant | 30-30 |
 
-## Purpose
-They provide:
-- repeated combat content
-- progression testing
-- rewards
-- a useful use for troops outside of PvP
+## Full monster stat table
 
-## How it works
-You send a march to a monster. If your army wins:
-- you receive rewards
-- your troops may take losses or become wounded
+| Level | Monster | Power | Attack | Defense | HP | Fight duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Skeleton | 4,800 | 5,400 | 4,440 | 2,400 | 5s |
+| 2 | Skeleton | 5,720 | 6,110 | 5,460 | 2,730 | 5s |
+| 3 | Centaur | 8,640 | 9,180 | 8,100 | 3,780 | 5s |
+| 4 | Centaur | 26,000 | 27,000 | 23,500 | 10,500 | 5s |
+| 5 | Centaur | 52,000 | 54,000 | 47,000 | 21,000 | 5s |
+| 6 | Wildling | 159,600 | 165,200 | 142,800 | 64,400 | 5s |
+| 7 | Wildling | 217,800 | 254,100 | 194,700 | 82,500 | 5s |
+| 8 | Wildling | 294,140 | 320,880 | 286,500 | 118,420 | 5s |
+| 9 | Wildling | 335,720 | 366,240 | 327,000 | 135,160 | 5s |
+| 10 | Wildling | 397,780 | 433,944 | 387,450 | 160,146 | 5s |
+| 11 | Wildling | 465,850 | 508,200 | 453,750 | 187,550 | 5s |
+| 12 | Lava Giant | 540,150 | 589,260 | 526,125 | 217,465 | 5s |
+| 13 | Lava Giant | 870,910 | 999,936 | 782,208 | 306,432 | 5s |
+| 14 | Lava Giant | 1,131,600 | 1,223,600 | 1,085,600 | 414,000 | 5s |
+| 15 | Lava Giant | 1,501,340 | 1,636,882 | 1,407,510 | 521,300 | 5s |
+| 16 | Lava Giant | 1,785,240 | 1,926,180 | 1,644,300 | 610,740 | 5s |
+| 17 | Lava Giant | 2,118,760 | 2,224,040 | 2,000,320 | 736,960 | 5s |
+| 18 | Griffin | 2,362,510 | 2,479,906 | 2,230,448 | 821,744 | 5s |
+| 19 | Griffin | 2,899,620 | 3,306,870 | 2,736,720 | 993,690 | 5s |
+| 20 | Griffin | 3,205,950 | 3,656,233 | 3,025,848 | 1,098,671 | 5s |
+| 21 | Griffin | 3,908,480 | 4,424,320 | 3,630,720 | 1,289,600 | 5s |
+| 22 | Griffin | 4,847,700 | 5,534,100 | 4,354,350 | 1,522,950 | 5s |
+| 23 | Griffin | 5,228,050 | 5,968,314 | 4,695,999 | 1,642,443 | 5s |
+| 24 | Fallen Skeleton | 5,625,140 | 6,421,620 | 5,052,670 | 1,767,190 | 5s |
+| 25 | Fallen Skeleton | 6,039,620 | 6,894,792 | 5,424,972 | 1,897,404 | 5s |
+| 26 | Fallen Centaur | 6,471,510 | 7,387,830 | 5,812,905 | 2,033,085 | 5s |
+| 27 | Fallen Centaur | 7,081,830 | 7,601,354 | 6,808,407 | 2,378,841 | 5s |
+| 28 | Fallen Wildling | 7,986,240 | 8,609,280 | 7,561,440 | 2,633,760 | 5s |
+| 29 | Fallen Wildling | 9,004,820 | 9,506,728 | 8,296,244 | 2,863,828 | 5s |
+| 30 | Fallen Lava Giant | 10,330,680 | 11,590,528 | 9,480,296 | 3,275,584 | 5s |
 
-## Restrictions
-You cannot:
-- attack a monster that is not a valid target
-- use troops already assigned elsewhere
-- expect zero losses against stronger enemies

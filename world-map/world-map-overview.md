@@ -1,22 +1,15 @@
-# World Map Overview
+﻿# World Map Overview
 
-The world map is where Solderia becomes a true strategy game.
+The world map is defined by resource nodes, monster spawns, march capacity, and a fixed-size generated map.
 
-## What exists on the map
-The map may contain:
-- player cities
-- resource nodes
-- monsters
-- the Palace
-- future alliance structures and event targets
+## Current map data
 
-## What players do on the map
-Players use the world map to:
-- gather resources
-- attack monsters
-- travel
-- support alliances
-- contest important objectives
+| Setting | Value |
+| --- | --- |
+| Map size | 1000 x 1000 |
+| Resource node families | 5 |
+| Monster families | 9 |
+| Monster level range | 1-30 |
+| Initial march slots | 1 |
+ ## What exists on the map  - Player cities - Resource nodes for Food, Wood, Iron, Mithril, and Gold - Monster encounters from level 1 to 30
 
-## Rule
-All map interactions depend on available troops and valid march behavior.
