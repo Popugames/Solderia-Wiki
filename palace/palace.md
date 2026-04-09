@@ -1,92 +1,68 @@
-# 👑 Palace Overview
+# 👑 Palace
 
 ## Overview
-The Palace is a major kingdom objective fought over by alliances.
+The Palace is one of the most important alliance objectives in the kingdom.
 
-Only one alliance can control the Palace at a time. Because of this, Palace wars are some of the most important large-scale conflicts in the game.
+It is designed as a major strategic target that alliances can attack, defend, and fight to control.
 
-The Palace is not designed as a solo objective. It is meant to reward alliance coordination, timing, and sustained control.
+Owning the Palace is a sign of power, coordination, and long-term strength.
 
----
+## 🏰 Why the Palace Matters
+The Palace matters because it gives alliances a major kingdom objective to compete for.
 
-## Why the Palace Matters
-Controlling the Palace gives an alliance a powerful strategic advantage.
+It is not just a place to attack once. It is a structure that must be captured, defended, and protected against enemy alliances.
 
-The Palace is important because it:
+The Palace is meant to create large-scale conflict between organized alliances.
 
-- creates a major endgame objective for alliances
-- rewards coordinated attacks and defense
-- gives value to rally participation and troop planning
-- helps define the strongest alliances in the kingdom
+## ⚔️ How It Works
+The Palace becomes available when the game rules allow it to open.
 
-In most cases, the Palace becomes one of the main goals of competitive alliance play.
+Once it is open:
 
----
+- alliances may attack it
+- one alliance can control it at a time
+- other alliances may try to take it by force
 
-## How the Palace Works
-The Palace becomes available when kingdom rules allow it.
+In most cases, the Palace is not meant to be taken by a solo player.
 
-Once it opens:
-
-- alliances may attack it through **Rally**
-- the current owner must defend it
-- the winning alliance takes control
-- the Palace remains under that alliance until another alliance defeats it
-
-The Palace can change hands multiple times if different alliances continue to contest it.
-
----
-
-## Palace Control
+## 👥 Palace Control
 Only one alliance can control the Palace at a time.
 
-When an alliance owns the Palace:
+When an alliance takes control of the Palace:
 
-- it becomes the current Palace holder
-- it may defend the Palace with alliance troops
-- it receives the benefits tied to Palace control
+- it becomes the current owner
+- it may defend the Palace against future attacks
+- it must hold the Palace if it wants to keep control
 
-Control is based on alliance ownership, not on one individual player.
+Capturing the Palace is important, but holding it is just as important.
 
----
+## 🛡️ Palace Warfare
+The Palace is a high-value target, so fights around it are more serious than normal attacks.
 
-## Palace Warfare
-Palace battles are built around alliance coordination.
+Players usually need:
 
-To fight for the Palace effectively, alliances usually need:
-
-- strong rally leaders
-- active participants
-- available troops
+- strong troop coordination
+- support from alliance members
 - good timing
-- defensive reinforcement after capture
+- defensive planning after capture
 
-A Palace war is rarely decided by one action alone. It often depends on repeated pressure, defense, and organization.
+Because of this, Palace battles are often decided by teamwork rather than individual strength alone.
 
----
+## ⛔ Important Rule
+The Palace is an alliance objective.
 
-## Important Rule
-The Palace is an **alliance objective**.
+Players should not expect it to function like a normal solo target. Palace control depends on alliance participation, defense, and coordinated action.
 
-Players do not take or hold it as individuals. The alliance controls it, defends it, and loses it as a group.
-
----
-
-## Tips for Players
+## 💡 Tips for Players
 
 ### Join an active alliance before Palace events
-Players outside active alliances may miss one of the most important kingdom systems.
+The Palace is not something most players can fight for alone.
 
-### Keep troops available
-If the Palace is about to open or a Palace war is active, avoid wasting your best troops on lower-priority actions.
+### Prepare for defense after capture
+Taking the Palace is only the first step. Other alliances may attack immediately after it is captured.
 
-### Follow alliance leadership
-Palace wars depend heavily on rally timing, defense, and coordination.
-
-### Be ready to defend after capture
-Taking the Palace is only part of the challenge. Keeping it is just as important.
-
----
+### Watch alliance instructions closely
+Palace battles often require quick reactions and coordinated troop movement.
 
 ## Related Pages
 
