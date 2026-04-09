@@ -1,25 +1,79 @@
-# Palace Garrison and Control
+# 🛡️ Palace Garrison and Control
 
-## Occupation
-When an alliance captures the Palace, that alliance becomes the Palace owner.
+## Overview
+Once an alliance takes control of the Palace, it must defend it.
 
-## Garrison
-The owner alliance may station troops inside the Palace to defend it.
+The Palace can be protected by a **garrison**, which is made up of troops stationed there by members of the owning alliance.
 
-## How garrison works
-Garrison troops are part of the Palace defense and are no longer available elsewhere while stationed there.
+Holding the Palace is not just about capturing it once. It is also about keeping enough strength inside to resist future attacks.
 
-## Control benefits
-The controlling alliance may receive active bonuses while it holds the Palace.
+---
 
-Typical benefits may include:
-- economic bonuses
-- military bonuses
-- march-related bonuses
-- prestige and special titles
+## Palace Control
+Only one alliance can control the Palace at a time.
 
-## Ongoing risk
-The Palace is not permanently safe after capture. Other alliances can challenge control through future rallies.
+When the current defenders lose, control passes to the new winning alliance.
 
-## Important rule
-Palace ownership belongs to the alliance, not to one player.
+This means Palace ownership can change multiple times during a major conflict if several alliances continue attacking.
+
+---
+
+## Palace Garrison
+The Palace garrison is the defensive force stationed inside the Palace.
+
+In general:
+
+- only the owning alliance may reinforce the Palace
+- Palace defense depends on the troops currently stationed there
+- alliance members may need to send troops to help maintain control
+
+A stronger garrison makes it harder for enemy alliances to take the Palace.
+
+---
+
+## Reinforcing the Palace
+If your alliance owns the Palace, you may be able to send troops to reinforce it.
+
+This allows the alliance to:
+
+- recover after battle
+- prepare for the next enemy rally
+- increase total defensive strength
+- keep control for longer periods of time
+
+---
+
+## Recalling Palace Troops
+Troops stationed in the Palace are usually tied to the current Palace state.
+
+In general, troops can be recalled only when Palace conditions allow it.
+
+Players should expect the following:
+
+- Palace troops cannot be recalled freely during active battle
+- recalls may follow normal return timing instead of being instant
+- troop movement should be planned carefully during Palace wars
+
+---
+
+## Why Palace Defense Matters
+Capturing the Palace is only the first step.
+
+If an alliance cannot reinforce and defend the Palace, it may lose control quickly to the next incoming rally.
+
+This makes Palace wars a test of:
+
+- alliance activity
+- coordination
+- troop availability
+- timing
+- sustained defense
+
+---
+
+## Related Pages
+
+- [👑 Palace](README.md)
+- [⚔️ Attacking the Palace](attacking-the-palace.md)
+- [📜 Palace Rules and Restrictions](palace-rules-and-restrictions.md)
+- [🤝 Alliance](../alliance/README.md)
