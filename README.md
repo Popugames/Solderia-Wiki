@@ -1,54 +1,88 @@
-# Solderia Wiki
+# 👑 Palace
 
-Welcome to the official **Solderia Player Wiki**.
+## Overview
 
-This wiki explains the game from the player's point of view, but it is written with clear rules and exact behavior so that both players and developers can understand how each system is meant to work.
+The Palace is one of the most important alliance objectives in the kingdom.
 
-## What this wiki covers
+It is designed as a major strategic target that alliances can attack, defend, and fight to control.
 
-* city development
-* resources and economy
-* troops and training
-* research
-* world map
-* combat
-* alliances
-* rally
-* palace control
-* Wishing Well
-* quests and items
-* rules, limits, and special cases
+Owning the Palace is a sign of power, coordination, and long-term strength.
 
-## Core game goal
+## 🏰 Why the Palace Matters
 
-Your first long-term objective is to grow your city by upgrading your **Castle** and unlocking stronger buildings, troops, and research.
+The Palace matters because it gives alliances a major kingdom objective to compete for.
 
-Your endgame objective is to join an alliance, fight for control of the **Palace**, and help your alliance defend it against rival alliances.
+It is not just a place to attack once. It is a structure that must be captured, defended, and protected against enemy alliances.
 
-## How to read this wiki
+The Palace is meant to create large-scale conflict between organized alliances.
 
-Each system page follows the same logic:
+## ⚔️ How It Works
 
-1. what the system is
-2. why it matters
-3. how it works
-4. what is allowed
-5. what is not allowed
-6. special cases and restrictions
+The Palace becomes available when the game rules allow it to open.
 
-## Main sections
+Once it is open:
 
-* [Getting Started](getting-started/what-is-solderia.md)
-* [City](city/city-overview.md)
-* [Resources & Economy](resources/resources-overview.md)
-* [Troops](troops/troop-overview.md)
-* [Research](research/research-overview.md)
-* [World Map](world-map/world-map-overview.md)
-* [Combat](combat/combat-overview.md)
-* [Alliance](alliance/)
-* [Rally](rally/)
-* [Palace](/broken/pages/fLVtd28dg4ujR5g3Iytt)
-* [Wishing Well](wishing-well/wishing-well-overview.md)
-* [Items](items/items-overview.md)
-* [Quests](quests/quests-overview.md)
-* [Rules & FAQ](rules/general-rules.md)
+* alliances may attack it
+* one alliance can control it at a time
+* other alliances may try to take it by force
+
+In most cases, the Palace is not meant to be taken by a solo player.
+
+## 👥 Palace Control
+
+Only one alliance can control the Palace at a time.
+
+When an alliance takes control of the Palace:
+
+* it becomes the current owner
+* it may defend the Palace against future attacks
+* it must hold the Palace if it wants to keep control
+
+Capturing the Palace is important, but holding it is just as important.
+
+## 🛡️ Palace Warfare
+
+The Palace is a high-value target, so fights around it are more serious than normal attacks.
+
+Players usually need:
+
+* strong troop coordination
+* support from alliance members
+* good timing
+* defensive planning after capture
+
+Because of this, Palace battles are often decided by teamwork rather than individual strength alone.
+
+## ⛔ Important Rule
+
+The Palace is an alliance objective.
+
+Players should not expect it to function like a normal solo target. Palace control depends on alliance participation, defense, and coordinated action.
+
+## 💡 Tips for Players
+
+### Join an active alliance before Palace events
+
+The Palace is not something most players can fight for alone.
+
+### Prepare for defense after capture
+
+Taking the Palace is only the first step. Other alliances may attack immediately after it is captured.
+
+### Watch alliance instructions closely
+
+Palace battles often require quick reactions and coordinated troop movement.
+
+## Related Pages
+
+{% content-ref url="palace/attacking-the-palace.md" %}
+[attacking-the-palace.md](palace/attacking-the-palace.md)
+{% endcontent-ref %}
+
+{% content-ref url="palace/palace-garrison-and-control.md" %}
+[palace-garrison-and-control.md](palace/palace-garrison-and-control.md)
+{% endcontent-ref %}
+
+{% content-ref url="palace/palace-rules-and-restrictions.md" %}
+[palace-rules-and-restrictions.md](palace/palace-rules-and-restrictions.md)
+{% endcontent-ref %}
