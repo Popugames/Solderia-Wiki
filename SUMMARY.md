@@ -46,7 +46,7 @@
   * [🚩 Starting a Rally](rally/starting-a-rally.md)
   * [🪖 Joining or Leaving a Rally](rally/joining-or-leaving-a-rally.md)
   * [📜 Rally Rules and Restrictions](rally/rally-rules-and-restrictions.md)
-* [👑 Palace](palace/palace-overview.md)
+* [👑 Palace]()
   * [🏰 Palace Overview](palace/palace-overview.md)
   * [⚔️ Attacking the Palace](palace/attacking-the-palace.md)
   * [🏰 Palace Garrison and Control](palace/palace-garrison-and-control.md)
