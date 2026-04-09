@@ -1,4 +1,4 @@
-# 📃 Solderia Wiki
+# Solderia Wiki
 
 Welcome to the official **Solderia Player Wiki**.
 
