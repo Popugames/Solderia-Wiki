@@ -1,61 +1,97 @@
 # ⚔️ Attacking the Palace
 
 ## Overview
-The Palace is one of the main endgame objectives in the kingdom.
+The Palace can only be attacked through coordinated alliance action.
 
-It is designed to be contested by alliances, not by solo players. Attacking the Palace requires coordination, timing, and enough combined strength to defeat the defending force.
+Because it is a major kingdom objective, taking the Palace requires preparation, available troops, and a well-timed rally.
+
+---
+
+## How a Palace Attack Starts
+A Palace attack begins when an authorized alliance member starts a **Rally** against the Palace.
+
+Once the rally is created:
+
+- a formation timer begins
+- alliance members may join
+- troops are committed to the attack
+- the rally launches when the timer ends
+
+After launch, the rally continues as one coordinated action until it resolves.
 
 ---
 
 ## Who Can Attack the Palace
-Only players who are part of an alliance can take part in a Palace attack.
+To participate in a Palace attack, a player must usually:
 
-To participate, a player must usually:
-
-- belong to an alliance
-- meet the minimum participation requirements
+- be part of an alliance
 - have troops available
-- follow any event or Palace access rules that apply
+- meet any event or kingdom requirements
+- join the rally before it launches
+
+Since the Palace is an alliance objective, solo attacks are not used for Palace capture.
 
 ---
 
-## How Palace Attacks Work
-The Palace is usually attacked through **Rally**.
+## What Makes Palace Attacks Important
+Palace attacks are important because they decide which alliance controls one of the kingdom’s most valuable objectives.
 
-A typical Palace attack works like this:
-
-1. a player with the correct alliance permission starts a rally
-2. alliance members join during the formation phase
-3. the rally launches when the timer ends
-4. the rally marches to the Palace
-5. the battle is resolved when the rally reaches the target
-
-If the attackers win, control of the Palace changes to the attacking alliance.
+This means that Palace wars are often larger, more organized, and more competitive than normal attacks.
 
 ---
 
-## Why Rally Is Important
-The Palace is meant to be a large alliance objective.
+## Before You Join a Palace Attack
+Before sending troops, make sure:
 
-Because of that, players are expected to combine forces instead of relying on individual attacks. A well-organized rally is usually much stronger than disconnected solo actions.
+- your troops are available
+- you are joining the correct rally
+- you understand your alliance’s timing
+- you are not already committed to another important action
+
+Palace battles are costly, so troop commitment matters.
 
 ---
 
-## What Players Should Know
-### Timing matters
-Joining too late may prevent you from taking part in the attack.
+## After the Rally Launches
+Once the rally launches:
 
-### Troop commitment matters
-Once your troops are committed to a launched rally, they are locked until the rally resolves.
+- no new players can join
+- participants cannot leave manually
+- troop composition is locked
+- the attack continues until battle resolution
 
-### Coordination matters
-Strong Palace attacks depend on leadership, timing, and rally participation from multiple alliance members.
+This prevents abuse and keeps Palace battles fair.
+
+---
+
+## If the Attack Succeeds
+If the attacking alliance wins:
+
+- the Palace changes ownership
+- the defending alliance loses control
+- the new alliance becomes the Palace holder
+- the Palace enters its next defensive phase under the new owner
+
+Winning the attack is only the first step. The new owner must still be ready to defend the Palace.
+
+---
+
+## Tips for Players
+
+### Join early
+Do not wait until the last moment. Once the rally launches, you cannot join.
+
+### Use the right troops
+Sending the wrong troops at the wrong time can weaken the rally.
+
+### Stay available after the attack
+A successful capture often leads to immediate counterattacks.
 
 ---
 
 ## Related Pages
 
-- [👑 Palace](README.md)
-- [📯 Rally](../rally/README.md)
-- [🪖 Joining or Leaving a Rally](../rally/joining-or-leaving-a-rally.md)
+- [👑 Palace Overview](palace-overview.md)
+- [🏰 Palace Garrison and Control](palace-garrison-and-control.md)
 - [📜 Palace Rules and Restrictions](palace-rules-and-restrictions.md)
+- [📯 Rally](../rally/rally-overview.md)

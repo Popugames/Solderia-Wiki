@@ -1,56 +1,42 @@
 # 📜 Palace Rules and Restrictions
 
 ## Overview
-The Palace has special rules because it is one of the most important alliance objectives in the game.
+The Palace has special rules because it is a major alliance objective.
 
-These rules are meant to keep Palace battles fair, stable, and easy to understand.
-
----
-
-## Ownership Rules
-### Only one alliance can control the Palace at a time
-Palace ownership always belongs to the current controlling alliance.
-
-### The Palace is an alliance objective
-The Palace is not meant to be taken or defended as a purely solo system.
+These rules exist to keep Palace battles fair, prevent abuse, and make control changes clear during large-scale alliance warfare.
 
 ---
 
-## Attack Rules
-### Palace attacks are alliance-based
-Attacking the Palace usually requires participation through **Rally**.
+## Palace Rules
 
-### Players must follow rally rules
-If your troops are committed to a Palace rally, they are locked until the rally resolves.
+### Only alliances can fight for the Palace
+The Palace is not a solo objective.
 
-### Attack access may depend on event conditions
-Depending on the final game rules, Palace participation may require a minimum Castle level or other conditions.
+### Palace attacks must follow rally rules
+Players must join before launch and cannot change participation after the rally has started.
 
----
-
-## Garrison Rules
 ### Only the owning alliance can reinforce the Palace
-Players outside the owning alliance cannot send defending troops into the Palace.
+Players outside the owning alliance cannot send troops into Palace defense.
 
-### Palace troops cannot be withdrawn during active battle
-If the Palace is currently being attacked or battle is still resolving, troops cannot be recalled until the situation is stable again.
+### Palace troops cannot be withdrawn during battle
+If the Palace is under attack or combat is still resolving, troop withdrawal is restricted.
 
-### Palace troops remain tied to Palace state
-As long as troops are committed to Palace defense, players may be restricted from certain alliance changes.
+### Palace control belongs to the alliance
+The Palace is owned by the alliance, not by an individual player.
 
 ---
 
-## Alliance Restrictions Linked to the Palace
-### You may not be able to leave your alliance if:
-- your troops are currently stationed in the Palace
-- your troops are still tied to Palace defense
-- your alliance role or current troop state would break Palace consistency
+## Alliance Restrictions Related to the Palace
+Because Palace control is so important, alliance changes may also be restricted.
 
-### The alliance leader cannot freely leave if the Palace is still controlled
-Leadership-related restrictions may apply while the alliance still controls the Palace.
+### A player usually cannot leave the alliance if:
 
-### An alliance cannot be disbanded while Palace control is still active
-Major alliance objectives must be resolved before the alliance can be dissolved.
+- their troops are stationed in the Palace
+- they are tied to Palace-related alliance actions
+- leaving would create an invalid troop state
+
+### An alliance cannot be disbanded while it controls the Palace
+The Palace must first be lost, abandoned, or otherwise resolved according to game rules.
 
 ---
 
@@ -58,31 +44,31 @@ Major alliance objectives must be resolved before the alliance can be dissolved.
 These restrictions help prevent:
 
 - invalid Palace ownership states
-- broken troop behavior
-- unfair alliance switching during Palace wars
-- inconsistent battle outcomes
+- broken troop assignments
+- unfair last-second recalls
+- alliance abuse during Palace wars
 
-They also ensure that Palace warfare remains strategic and predictable.
+Without these rules, Palace control would be much easier to exploit.
 
 ---
 
 ## Tips for Players
 
-### Do not send troops carelessly
-Once your troops are part of Palace defense or a Palace rally, they may be unavailable for other actions.
+### Check your troop commitments
+Do not try to leave the alliance or make major changes while your troops are still tied to Palace defense.
 
-### Coordinate recalls and reinforcements
-Poor timing can weaken your alliance’s control of the Palace.
+### Follow Palace timing carefully
+Late actions can fail if the Palace is already in combat or the rally has already launched.
 
-### Expect Palace battles to last longer than normal fights
-The Palace is a major objective, so fighting for it often involves repeated attacks and defense cycles.
+### Treat the Palace as a team objective
+Success depends on alliance-wide coordination, not individual action.
 
 ---
 
 ## Related Pages
 
-- [👑 Palace](README.md)
+- [👑 Palace Overview](palace-overview.md)
 - [⚔️ Attacking the Palace](attacking-the-palace.md)
-- [🛡️ Palace Garrison and Control](palace-garrison-and-control.md)
-- [📯 Rally](../rally/README.md)
-- [📜 Important Rules](../rules/alliance-rules-and-edge-cases.md)
+- [🏰 Palace Garrison and Control](palace-garrison-and-control.md)
+- [📯 Rally](../rally/rally-overview.md)
+- [🤝 Alliance](../alliance/alliance-overview.md)
