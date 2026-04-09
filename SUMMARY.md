@@ -42,7 +42,7 @@
   * [Leaving or Being Removed](alliance/leaving-or-being-removed.md)
   * [Alliance Rules and Restrictions](alliance/alliance-rules-and-restrictions.md)
 * [Rally](rally/README.md)
-  * [Rally Overview](rally/README.md)
+  * [Rally Overview](rally/rally-overview.md)
   * [Starting a Rally](rally/starting-a-rally.md)
   * [Joining or Leaving a Rally](rally/joining-or-leaving-a-rally.md)
   * [Rally Rules and Restrictions](rally/rally-rules-and-restrictions.md)
