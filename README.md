@@ -1,4 +1,4 @@
-# Solderia Player Wiki
+# 📃 Solderia Wiki
 
 Welcome to the official **Solderia Player Wiki**.
 
@@ -6,18 +6,18 @@ This wiki explains the game from the player's point of view, but it is written w
 
 ## What this wiki covers
 
-- city development
-- resources and economy
-- troops and training
-- research
-- world map
-- combat
-- alliances
-- rally
-- palace control
-- Wishing Well
-- quests and items
-- rules, limits, and special cases
+* city development
+* resources and economy
+* troops and training
+* research
+* world map
+* combat
+* alliances
+* rally
+* palace control
+* Wishing Well
+* quests and items
+* rules, limits, and special cases
 
 ## Core game goal
 
@@ -38,17 +38,17 @@ Each system page follows the same logic:
 
 ## Main sections
 
-- [Getting Started](getting-started/what-is-solderia.md)
-- [City](city/city-overview.md)
-- [Resources & Economy](resources/resources-overview.md)
-- [Troops](troops/troop-overview.md)
-- [Research](research/research-overview.md)
-- [World Map](world-map/world-map-overview.md)
-- [Combat](combat/combat-overview.md)
-- [Alliance](alliance/alliance-overview.md)
-- [Rally](rally/rally-overview.md)
-- [Palace](palace/palace-overview.md)
-- [Wishing Well](wishing-well/wishing-well-overview.md)
-- [Items](items/items-overview.md)
-- [Quests](quests/quests-overview.md)
-- [Rules & FAQ](rules/general-rules.md)
+* [Getting Started](getting-started/what-is-solderia.md)
+* [City](city/city-overview.md)
+* [Resources & Economy](resources/resources-overview.md)
+* [Troops](troops/troop-overview.md)
+* [Research](research/research-overview.md)
+* [World Map](world-map/world-map-overview.md)
+* [Combat](combat/combat-overview.md)
+* [Alliance](alliance/)
+* [Rally](rally/)
+* [Palace](/broken/pages/fLVtd28dg4ujR5g3Iytt)
+* [Wishing Well](wishing-well/wishing-well-overview.md)
+* [Items](items/items-overview.md)
+* [Quests](quests/quests-overview.md)
+* [Rules & FAQ](rules/general-rules.md)

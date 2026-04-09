@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Solderia Player Wiki](README.md)
+* [📃 Solderia Wiki](README.md)
 * [🏰 Getting Started](getting-started/what-is-solderia.md)
   * [What is Solderia](getting-started/what-is-solderia.md)
   * [Core Gameplay Loop](getting-started/core-gameplay-loop.md)
