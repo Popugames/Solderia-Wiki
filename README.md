@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solderia Wiki
 
 ## Overview
