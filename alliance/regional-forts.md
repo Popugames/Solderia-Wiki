@@ -1,4 +1,4 @@
-# Regional Forts
+# 🏰 Regional Forts
 
 Regional Forts are strategic alliance objectives that provide permanent bonuses, Honor Marks, and access to the Palace battle.
 
@@ -6,12 +6,12 @@ An alliance may control only **one Fort at a time**.
 
 ## Forts and Bonuses
 
-| Fort | Alliance Bonus |
-|---|---|
-| **Northwatch Fort** | Increased Troop Training Speed |
-| **Ironvale Fort** | Increased Research Speed |
-| **Southgate Fort** | Increased March Speed |
-| **Westmark Fort** | Increased Damage Against Monsters |
+| Fort                | Alliance Bonus              |
+| ------------------- | --------------------------- |
+| **Northwatch Fort** | 10% Troop Training Speed    |
+| **Ironvale Fort**   | 10% Research Speed          |
+| **Southgate Fort**  | 10% March Speed             |
+| **Westmark Fort**   | 10% Damage Against Monsters |
 
 The bonus remains active for as long as the alliance controls the Fort.
 
@@ -21,14 +21,14 @@ Fort status and Fort ownership are displayed separately.
 
 ### Status
 
-- **Locked** — The Fort cannot be attacked.
-- **Protected** — The Fort has an owner but cannot currently be attacked.
-- **Vulnerable** — The Fort can be attacked by alliances.
+* **Locked** - The Fort cannot be attacked.
+* **Protected** - The Fort has an owner but cannot currently be attacked.
+* **Vulnerable** - The Fort can be attacked by alliances.
 
 ### Owner
 
-- **Neutral**
-- **Alliance Name**
+* **Neutral**
+* **Alliance Name**
 
 ## Attacking a Fort
 
@@ -36,11 +36,11 @@ A Fort can only be attacked through an **Alliance Rally**.
 
 Requirements:
 
-- The Rally initiator must belong to an alliance.
-- One or more players may participate in the Rally.
-- The attack is always treated as an alliance attack, even when only one player participates.
-- Direct individual attacks are not allowed.
-- The Fort must be **Vulnerable**.
+* The Rally initiator must belong to an alliance.
+* One or more players may participate in the Rally.
+* The attack is always treated as an alliance attack, even when only one player participates.
+* Direct individual attacks are not allowed.
+* The Fort must be **Vulnerable**.
 
 These rules apply to both neutral Forts and Forts controlled by another alliance.
 
@@ -50,7 +50,7 @@ Multiple simultaneous Rally attacks are not allowed.
 
 A neutral Fort is captured by reducing its Fort HP to zero.
 
-```text
+```
 1 Troop Power = 1 Fort HP Damage
 ```
 
@@ -58,9 +58,9 @@ Each alliance has its own independent Fort HP progress.
 
 Damage dealt by one alliance:
 
-- Persists between Rally attacks.
-- Does not contribute to another alliance's progress.
-- Is tracked separately for that alliance.
+* Persists between Rally attacks.
+* Does not contribute to another alliance's progress.
+* Is tracked separately for that alliance.
 
 The first alliance to reduce its own remaining Fort HP value to zero becomes the owner.
 
@@ -68,16 +68,16 @@ The first alliance to reduce its own remaining Fort HP value to zero becomes the
 
 Fort HP regenerates permanently at the following rate:
 
-```text
+```
 1% of Maximum Fort HP every 216 seconds
 ```
 
 Regeneration continues regardless of:
 
-- Recent damage.
-- An active Rally.
-- The Fort's current status.
-- The progress of other alliances.
+* Recent damage.
+* An active Rally.
+* The Fort's current status.
+* The progress of other alliances.
 
 Each alliance's Fort HP progress regenerates independently.
 
@@ -87,13 +87,13 @@ Fort HP is used only for the first capture of a neutral Fort.
 
 After the Fort has been captured for the first time:
 
-- Fort HP is no longer used.
-- The Fort is defended exclusively by stationed troops.
-- Future attacks use the normal troop combat system.
+* Fort HP is no longer used.
+* The Fort is defended exclusively by stationed troops.
+* Future attacks use the normal troop combat system.
 
 A defended Fort battle is fought between:
 
-```text
+```
 Attacking Rally Troops
 vs.
 Defending Garrison Troops
@@ -109,7 +109,7 @@ This includes troops belonging to every Rally participant.
 
 ### Garrison Capacity
 
-```text
+```
 Maximum Garrison Capacity: 1,000,000 troops
 ```
 
@@ -143,10 +143,10 @@ There are **two vulnerability windows per day**.
 
 During a vulnerability window:
 
-- Forts become **Vulnerable**.
-- Eligible alliances may initiate Rally attacks.
-- Ownership may change multiple times.
-- The alliance controlling the Fort at the end of the window is considered the final owner.
+* Forts become **Vulnerable**.
+* Eligible alliances may initiate Rally attacks.
+* Ownership may change multiple times.
+* The alliance controlling the Fort at the end of the window is considered the final owner.
 
 Outside these windows, owned Forts are **Protected**.
 
@@ -154,9 +154,9 @@ Temporary ownership changes during a vulnerability window do not affect Holding 
 
 If another alliance controls the Fort at the end of the window:
 
-- The previous alliance loses ownership.
-- Its Holding Reward timer is removed.
-- A new timer begins for the new owner.
+* The previous alliance loses ownership.
+* Its Holding Reward timer is removed.
+* A new timer begins for the new owner.
 
 ## Rewards
 
@@ -164,7 +164,7 @@ If another alliance controls the Fort at the end of the window:
 
 At the end of each vulnerability window, every member of the alliance controlling the Fort automatically receives:
 
-```text
+```
 2,000 Honor Marks
 ```
 
@@ -172,17 +172,17 @@ Eligibility is checked at the end of the window.
 
 The reward:
 
-- Is granted automatically.
-- Does not require battle participation.
-- Does not count toward the daily Honor Marks earning limit.
-- Cannot exceed the account capacity.
-- Burns any amount that cannot be granted.
+* Is granted automatically.
+* Does not require battle participation.
+* Does not count toward the daily Honor Marks earning limit.
+* Cannot exceed the account capacity.
+* Burns any amount that cannot be granted.
 
 ### Holding Reward
 
 Every member of the owner alliance may claim:
 
-```text
+```
 2,000 Honor Marks
 ```
 
@@ -192,23 +192,23 @@ The first Holding Reward becomes available 24 hours after the Fort is captured.
 
 Rules:
 
-- The reward must be claimed manually.
-- An alliance may own only one Fort.
-- Temporary loss during a vulnerability window does not interrupt the timer if the same alliance controls the Fort at the end of the window.
-- Losing the Fort at the end of the window removes the previous timer.
-- A new timer starts for the new owner.
-- The reward does not count toward the daily Honor Marks earning limit.
-- Any amount exceeding the account capacity is burned.
+* The reward must be claimed manually.
+* An alliance may own only one Fort.
+* Temporary loss during a vulnerability window does not interrupt the timer if the same alliance controls the Fort at the end of the window.
+* Losing the Fort at the end of the window removes the previous timer.
+* A new timer starts for the new owner.
+* The reward does not count toward the daily Honor Marks earning limit.
+* Any amount exceeding the account capacity is burned.
 
 ### Battle Reward
 
 After every Fort battle, each participant receives a mail containing:
 
-- The battle report.
-- The battle result.
-- Total battle damage.
-- The participant's contributed Power.
-- Honor Marks earned.
+* The battle report.
+* The battle result.
+* Total battle damage.
+* The participant's contributed Power.
+* Honor Marks earned.
 
 Both attackers and defenders are eligible.
 
@@ -218,7 +218,7 @@ Battle damage is calculated from the Gold value of all troops wounded or killed 
 
 A troop's Gold value is based on its instant production cost.
 
-```text
+```
 Total Gold Damage =
 Gold Value of All Wounded Troops
 +
@@ -227,13 +227,13 @@ Gold Value of All Killed Troops
 
 #### Global Reward Pool
 
-```text
+```
 1 Gold of Damage = 1 Honor Mark
 ```
 
 Therefore:
 
-```text
+```
 Global Honor Marks Pool = Total Gold Damage
 ```
 
@@ -241,12 +241,12 @@ Global Honor Marks Pool = Total Gold Damage
 
 The global reward pool is distributed among all attackers and defenders according to the Power of the troops they contributed to the battle.
 
-```text
+```
 Participant Share =
 Participant Battle Power / Total Battle Power
 ```
 
-```text
+```
 Participant Reward =
 Global Honor Marks Pool × Participant Share
 ```
@@ -257,15 +257,15 @@ Battle Rewards count toward the daily Honor Marks earning limit.
 
 Honor Marks are used in the **Alliance Honor Shop**.
 
-```text
+```
 Daily Earning Limit: 30,000 Honor Marks
 Maximum Account Capacity: 500,000 Honor Marks
 ```
 
 The following rewards do not count toward the daily earning limit:
 
-- Capture Rewards.
-- Holding Rewards.
+* Capture Rewards.
+* Holding Rewards.
 
 Battle Rewards and other standard sources count toward the limit.
 
@@ -277,21 +277,21 @@ An alliance must control a Fort to attack the Palace during the Palace vulnerabi
 
 The Fort may have been:
 
-- Captured while neutral.
-- Captured from another alliance.
+* Captured while neutral.
+* Captured from another alliance.
 
 Fort ownership is verified twice.
 
 ### Rally Initiation
 
-```text
+```
 Alliance owns a Fort: Palace Rally allowed
 Alliance owns no Fort: Palace Rally blocked
 ```
 
 ### Rally Arrival
 
-```text
+```
 Alliance still owns a Fort: Palace battle begins
 Alliance owns no Fort: Rally returns home
 ```
