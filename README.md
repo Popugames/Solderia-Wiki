@@ -1,4 +1,4 @@
-# 👑 Palace
+# Solderia Wiki
 
 ## Overview
 
