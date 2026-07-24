@@ -2,91 +2,171 @@
 hidden: true
 ---
 
-# Solderia Wiki
+# Welcome to Solderia
 
-## Overview
+**Solderia** is a persistent medieval 4X strategy game where players build powerful cities, train armies, form alliances and compete for control of an evolving kingdom.
 
-The Palace is one of the most important alliance objectives in the kingdom.
+Every player begins with a small settlement and must develop it into a fortified stronghold. Progress requires careful management of resources, construction, research, troops and military operations across the world map.
 
-It is designed as a major strategic target that alliances can attack, defend, and fight to control.
+The kingdom continues to evolve even when individual players are offline. Alliances expand, armies move, objectives change ownership and new conflicts emerge throughout the world.
 
-Owning the Palace is a sign of power, coordination, and long-term strength.
+---
 
-## 🏰 Why the Palace Matters
+## Build Your Kingdom
 
-The Palace matters because it gives alliances a major kingdom objective to compete for.
+Your city is the center of your power.
 
-It is not just a place to attack once. It is a structure that must be captured, defended, and protected against enemy alliances.
+Construct and upgrade buildings to unlock new troops, technologies, production bonuses and military capabilities. Every upgrade contributes to your overall progression and prepares your kingdom for increasingly difficult challenges.
 
-The Palace is meant to create large-scale conflict between organized alliances.
+Players must balance several areas of development:
 
-## ⚔️ How It Works
+* Resource production
+* Building upgrades
+* Research and technology
+* Troop training
+* Army healing
+* Defensive preparation
+* Military expansion
 
-The Palace becomes available when the game rules allow it to open.
+A strong army depends on a strong economy.
 
-Once it is open:
+---
 
-* alliances may attack it
-* one alliance can control it at a time
-* other alliances may try to take it by force
+## Explore the World
 
-In most cases, the Palace is not meant to be taken by a solo player.
+Solderia features a large persistent kingdom map populated by players, monsters, resource nodes and strategic objectives.
 
-## 👥 Palace Control
+From the world map, players can:
 
-Only one alliance can control the Palace at a time.
+* Gather resources
+* Hunt monsters
+* Attack enemy castles
+* Reinforce allies
+* Join Rally attacks
+* Establish military camps
+* Capture strategic objectives
+* Compete for control of the kingdom
 
-When an alliance takes control of the Palace:
+Armies physically travel across the map, making distance, march speed, positioning and timing important strategic factors.
 
-* it becomes the current owner
-* it may defend the Palace against future attacks
-* it must hold the Palace if it wants to keep control
+---
 
-Capturing the Palace is important, but holding it is just as important.
+## Train and Command Armies
 
-## 🛡️ Palace Warfare
+Players can train multiple troop types, each with a different role on the battlefield:
 
-The Palace is a high-value target, so fights around it are more serious than normal attacks.
+* **Infantry** provides protection and frontline durability.
+* **Cavalry** offers mobility and offensive pressure.
+* **Archers** deal damage from behind the frontline.
+* **Siege units** specialize in attacking fortified targets.
 
-Players usually need:
+Army composition, troop strength, research, bonuses and participating commanders can influence the result of a battle.
 
-* strong troop coordination
-* support from alliance members
-* good timing
-* defensive planning after capture
+Military operations can be carried out individually or together with alliance members through the Rally system.
 
-Because of this, Palace battles are often decided by teamwork rather than individual strength alone.
+---
 
-## ⛔ Important Rule
+## Form Alliances
 
-The Palace is an alliance objective.
+Alliances are a central part of Solderia.
 
-Players should not expect it to function like a normal solo target. Palace control depends on alliance participation, defense, and coordinated action.
+Players can join forces to support each other, coordinate attacks, defend important positions and compete for major kingdom objectives.
 
-## 💡 Tips for Players
+Alliance members can:
 
-### Join an active alliance before Palace events
+* Help accelerate development
+* Reinforce allied players
+* Start and join Rallies
+* Share military information
+* Capture Regional Forts
+* Defend alliance objectives
+* Earn alliance rewards
+* Compete for access to the Palace
 
-The Palace is not something most players can fight for alone.
+The strongest alliances are not defined only by Power. Coordination, participation, timing and leadership are equally important.
 
-### Prepare for defense after capture
+---
 
-Taking the Palace is only the first step. Other alliances may attack immediately after it is captured.
+## Capture Regional Forts
 
-### Watch alliance instructions closely
+Regional Forts are major alliance objectives located throughout the kingdom.
 
-Palace battles often require quick reactions and coordinated troop movement.
+An alliance must organize a Rally to capture a Fort. Once controlled, the Fort provides a permanent strategic bonus to its owning alliance and can be defended by stationed troops and additional Reinforcements.
 
-## Related Pages
+Capturing a Regional Fort also qualifies the alliance for access to the Palace.
 
-{% content-ref url="palace/attacking-the-palace.md" %}
-[attacking-the-palace.md](palace/attacking-the-palace.md)
+{% content-ref url="alliance/regional-forts.md" %}
+[regional-forts.md](alliance/regional-forts.md)
 {% endcontent-ref %}
 
-{% content-ref url="palace/palace-garrison-and-control.md" %}
-[palace-garrison-and-control.md](palace/palace-garrison-and-control.md)
-{% endcontent-ref %}
+---
 
-{% content-ref url="palace/palace-rules-and-restrictions.md" %}
-[palace-rules-and-restrictions.md](palace/palace-rules-and-restrictions.md)
-{% endcontent-ref %}
+## Fight for the Palace
+
+The Palace represents the ultimate objective of the kingdom.
+
+Only alliances that meet the required access conditions can participate in the battle for control of the Palace. Victory requires preparation, coordination and the ability to maintain control against the strongest alliances in the kingdom.
+
+The alliance that controls the Palace gains influence over the kingdom and earns the right to stand at the center of Solderia's political and military conflict.
+
+More information about the Palace system will be added to the Wiki as the feature becomes available.
+
+---
+
+## A Persistent Strategy Experience
+
+Solderia is designed around long-term progression and persistent competition.
+
+Your decisions can affect:
+
+* The strength of your city
+* The development of your army
+* Your alliance's position in the kingdom
+* Access to strategic objectives
+* Future battles for territorial control
+
+Progress is not limited to combat. Diplomacy, preparation, economic development and alliance organization are essential parts of the game.
+
+---
+
+## Play Across Multiple Platforms
+
+Solderia is being developed as a cross-platform strategy experience for:
+
+* Windows
+* Android
+* iOS
+
+Players can access the same persistent kingdom and continue their progression across supported platforms.
+
+---
+
+## Wiki Development
+
+The Solderia Wiki is currently under development.
+
+New pages will be published as additional systems, mechanics and kingdom objectives become available. Some values and rules may also be adjusted during testing and balancing.
+
+The Wiki will eventually include detailed information about:
+
+* City development
+* Buildings
+* Resources
+* Research
+* Troops
+* Battles
+* Monsters
+* Alliances
+* Rallies
+* Regional Forts
+* The Palace
+* Items and currencies
+* Events and rewards
+
+---
+
+## Begin Your Rise
+
+Build your city. Train your army. Find your allies.
+
+The kingdom of Solderia is waiting.
