@@ -15,7 +15,9 @@ An alliance may control only **one Fort at a time**.
 | **Southgate Fort**  | (500, 250)     | 10% March Speed             |
 | **Westmark Fort**   | (250, 500)     | 10% Damage Against Monsters |
 
+{% hint style="info" %}
 The bonus remains active for as long as the alliance controls the Fort.
+{% endhint %}
 
 ## Fort Status and Ownership
 
