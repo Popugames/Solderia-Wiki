@@ -1,8 +1,11 @@
 ---
 hidden: true
+cover: .gitbook/assets/banner.png
+coverY: 0
+coverHeight: 422
 ---
 
-# Welcome to Solderia
+# Solderia Wiki
 
 **Solderia** is a persistent medieval 4X strategy game where players build powerful cities, train armies, form alliances and compete for control of an evolving kingdom.
 
@@ -10,7 +13,7 @@ Every player begins with a small settlement and must develop it into a fortified
 
 The kingdom continues to evolve even when individual players are offline. Alliances expand, armies move, objectives change ownership and new conflicts emerge throughout the world.
 
----
+***
 
 ## Build Your Kingdom
 
@@ -30,7 +33,7 @@ Players must balance several areas of development:
 
 A strong army depends on a strong economy.
 
----
+***
 
 ## Explore the World
 
@@ -49,7 +52,7 @@ From the world map, players can:
 
 Armies physically travel across the map, making distance, march speed, positioning and timing important strategic factors.
 
----
+***
 
 ## Train and Command Armies
 
@@ -64,7 +67,7 @@ Army composition, troop strength, research, bonuses and participating commanders
 
 Military operations can be carried out individually or together with alliance members through the Rally system.
 
----
+***
 
 ## Form Alliances
 
@@ -85,7 +88,7 @@ Alliance members can:
 
 The strongest alliances are not defined only by Power. Coordination, participation, timing and leadership are equally important.
 
----
+***
 
 ## Capture Regional Forts
 
@@ -99,7 +102,7 @@ Capturing a Regional Fort also qualifies the alliance for access to the Palace.
 [regional-forts.md](alliance/regional-forts.md)
 {% endcontent-ref %}
 
----
+***
 
 ## Fight for the Palace
 
@@ -111,7 +114,7 @@ The alliance that controls the Palace gains influence over the kingdom and earns
 
 More information about the Palace system will be added to the Wiki as the feature becomes available.
 
----
+***
 
 ## A Persistent Strategy Experience
 
@@ -127,7 +130,7 @@ Your decisions can affect:
 
 Progress is not limited to combat. Diplomacy, preparation, economic development and alliance organization are essential parts of the game.
 
----
+***
 
 ## Play Across Multiple Platforms
 
@@ -139,7 +142,7 @@ Solderia is being developed as a cross-platform strategy experience for:
 
 Players can access the same persistent kingdom and continue their progression across supported platforms.
 
----
+***
 
 ## Wiki Development
 
@@ -163,7 +166,7 @@ The Wiki will eventually include detailed information about:
 * Items and currencies
 * Events and rewards
 
----
+***
 
 ## Begin Your Rise
 
