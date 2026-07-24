@@ -36,6 +36,7 @@
   * [Battle Reports](combat/battle-reports.md)
   * [Buffs and Bonuses](combat/buffs-and-bonuses.md)
 * [🤝 Alliance](alliance/alliance.md)
+  * [🏰 Regional Forts](alliance/regional-forts.md)
   * [📝 Joining an Alliance](alliance/joining-an-alliance.md)
   * [🛡️ Alliance Roles and Permissions](alliance/roles-and-permissions.md)
   * [🚪 Leaving or Being Removed](alliance/leaving-or-being-removed.md)
