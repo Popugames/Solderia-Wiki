@@ -8,12 +8,12 @@ An alliance may control only **one Fort at a time**.
 
 ## Forts and Bonuses
 
-| Fort                | Alliance Bonus              |
-| ------------------- | --------------------------- |
-| **Northwatch Fort** | 10% Troop Training Speed    |
-| **Ironvale Fort**   | 10% Research Speed          |
-| **Southgate Fort**  | 10% March Speed             |
-| **Westmark Fort**   | 10% Damage Against Monsters |
+| Fort                | Alliance Bonus              | World Position |
+| ------------------- | --------------------------- | -------------- |
+| **Northwatch Fort** | 10% Troop Training Speed    | (500, 750)     |
+| **Ironvale Fort**   | 10% Research Speed          | (750, 500)     |
+| **Southgate Fort**  | 10% March Speed             | (500, 250)     |
+| **Westmark Fort**   | 10% Damage Against Monsters | (250, 500)     |
 
 The bonus remains active for as long as the alliance controls the Fort.
 
