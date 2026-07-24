@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🏰 Getting Started
 
 **Solderia** is a 4X strategy game focused on city growth, army progression, map activity, alliance coordination, and control of key objectives.
