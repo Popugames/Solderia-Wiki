@@ -2,7 +2,7 @@
 
 Regional Forts are strategic alliance objectives that provide permanent bonuses, Honor Marks, and access to the Palace battle.
 
-<figure><img src="../.gitbook/assets/fort.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fort (1).png" alt=""><figcaption></figcaption></figure>
 
 An alliance may control only **one Fort at a time**.
 
