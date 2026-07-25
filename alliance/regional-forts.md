@@ -48,7 +48,7 @@ Requirements:
 
 These rules apply to both neutral Forts and Forts controlled by another alliance.
 
-Multiple simultaneous Rally attacks are not allowed.
+An alliance may have only one active Fort Rally at a time. While that Rally is in progress, the alliance cannot initiate another Rally against the same Fort or any other Fort.
 
 ## Initial Capture of a Neutral Fort
 
