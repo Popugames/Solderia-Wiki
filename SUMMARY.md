@@ -26,6 +26,7 @@
   * [Research Overview](research/research-overview.md)
   * [Economy Research](research/economy-research.md)
   * [Military Research](research/military-research.md)
+* [💎 VIP](vip/vip.md)
 * [World Map](world-map/world-map-overview.md)
   * [World Map Overview](world-map/world-map-overview.md)
   * [Marches](world-map/marches.md)
