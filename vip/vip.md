@@ -1,177 +1,234 @@
 # 💎 VIP
 
-VIP is a permanent account rank that unlocks economic and military bonuses, a daily chest, and free instant speed ups.
+VIP is a permanent progression system that gives you additional economic, construction, march and combat benefits.
 
-VIP has **two separate parts** that work together.
+## VIP Level and Active VIP
 
-| Part | What it is | How it changes |
-| ------------------ | -------------------------------------------------- | ------------------------- |
-| **VIP Level** | A permanent rank from 1 to 10. It never decreases.  | Raised with VIP Points    |
-| **VIP Privileges** | A timed activation that switches your bonuses on.   | Activated with VIP items  |
+VIP has two separate parts:
 
-Your VIP Level decides **how large** your bonuses are. VIP Privileges decide **whether you receive them at all**.
+| | |
+| --- | --- |
+| **VIP Level** | Your permanent VIP rank, from VIP 1 to VIP 10. |
+| **Active VIP** | Activates the bonuses unlocked by your current VIP Level. |
+
+Your **VIP Level never decreases**, but its bonuses only apply while VIP is active.
 
 {% hint style="warning" %}
-While VIP Privileges are inactive, none of your bonuses apply. A VIP 10 account without active Privileges receives no bonuses. The level itself is never lost and returns in full the moment Privileges are activated again.
+A VIP 10 player remains VIP 10 permanently. If VIP expires, the bonuses are temporarily disabled and return in full when VIP is activated again.
 {% endhint %}
 
 Every account starts at **VIP 1**. There is no VIP 0.
 
-## VIP Levels
+## How to Earn VIP Points
 
-Each level has its own cost in VIP Points. The cost is **consumed** when you level up, and your VIP Points balance shows progress toward the next level only.
+VIP Levels are increased with **VIP Points**. You can earn them by:
 
-| Level | Cost to Reach | Total from VIP 1 |
-| ----- | ------------- | ---------------- |
-| 1     | 0             | 0                |
-| 2     | 1,500         | 1,500            |
-| 3     | 4,000         | 5,500            |
-| 4     | 10,000        | 15,500           |
-| 5     | 18,000        | 33,500           |
-| 6     | 30,000        | 63,500           |
-| 7     | 60,000        | 123,500          |
-| 8     | 120,000       | 243,500          |
-| 9     | 250,000       | 493,500          |
-| 10    | 500,000       | **993,500**      |
-
-Leftover points are never wasted. If a gain takes you past the cost of the next level, the surplus carries over and can trigger several level ups at once.
-
-{% hint style="info" %}
-VIP Points keep accumulating after VIP 10. They are stored and will be applied automatically if higher levels are added later.
-{% endhint %}
-
-## Earning VIP Points
+* Spending Gold.
+* Using VIP Point items.
+* Claiming rewards that contain VIP Points, such as the Daily VIP Chest.
 
 ### Spending Gold
 
-Every Gold you spend anywhere in the game grants VIP Points automatically.
+Every Gold you spend in the game automatically grants:
 
-```
-1 Gold Spent = 1 VIP Point
-```
+**1 Gold Spent = 1 VIP Point**
 
-This applies to all Gold spending, including:
+This includes Gold spent on:
 
 * Store purchases.
-* Speed ups.
+* Speed Ups.
 * The Wishing Well.
 * The second Builder.
 * Teleports.
 * Alliance fees.
 
-Points are granted only when Gold actually leaves your account. A failed or cancelled purchase grants nothing.
+VIP Points are awarded only when Gold is actually deducted from your account. Failed or cancelled actions grant nothing.
+
+{% hint style="info" %}
+When you buy a VIP Point item with Gold, you receive both the points contained in the item and the points earned from spending Gold.
+{% endhint %}
+
+For example, buying a **1,000 VIP Points** item for **1,000 Gold** grants:
+
+* +1,000 VIP Points from the item.
+* +1,000 VIP Points from spending Gold.
+* **2,000 VIP Points total.**
+
+If you obtain the same item from a chest, quest, event or another reward, you receive only the VIP Points contained in the item because no Gold was spent.
 
 ### VIP Point Items
 
-| Item                | Rarity | Grants           | Store Price |
-| ------------------- | ------ | ---------------- | ----------- |
-| **100 VIP Points**  | Common | 100 VIP Points   | 150 Gold    |
-| **300 VIP Points**  | Rare   | 300 VIP Points   | 400 Gold    |
-| **1000 VIP Points** | Epic   | 1,000 VIP Points | 1,000 Gold  |
+VIP Point items are found in the **Others** section of the Store and may also be available from rewards.
 
-These items are found in the **Others** category of the Store, and in the daily VIP Chest.
+| Item | VIP Points | Store Price |
+| --- | ---: | ---: |
+| **100 VIP Points** | +100 | 150 Gold |
+| **300 VIP Points** | +300 | 400 Gold |
+| **1,000 VIP Points** | +1,000 | 1,000 Gold |
 
-## Activating VIP Privileges
+VIP Points from an item are added when the item is used.
 
-VIP Privileges are activated with time-based items. Using several extends the duration — the remaining time is added, not replaced.
+## VIP Levels
 
-| Item              | Rarity    | Duration   | Store Price |
-| ----------------- | --------- | ---------- | ----------- |
-| **60-Minute VIP** | Common    | 1 hour     | —           |
-| **1-Day VIP**     | Rare      | 24 hours   | 250 Gold    |
-| **7-Day VIP**     | Epic      | 7 days     | 1,500 Gold  |
-| **30-Day VIP**    | Legendary | 30 days    | 4,000 Gold  |
+Each VIP Level requires a certain number of VIP Points.
 
-{% hint style="info" %}
-**60-Minute VIP** is not sold in the Store. It is obtained from rewards and chests only.
-{% endhint %}
+| VIP Level | Points Required | Total Points from VIP 1 |
+| --- | ---: | ---: |
+| **VIP 1** | — | 0 |
+| **VIP 2** | 1,500 | 1,500 |
+| **VIP 3** | 4,000 | 5,500 |
+| **VIP 4** | 10,000 | 15,500 |
+| **VIP 5** | 18,000 | 33,500 |
+| **VIP 6** | 30,000 | 63,500 |
+| **VIP 7** | 60,000 | 123,500 |
+| **VIP 8** | 120,000 | 243,500 |
+| **VIP 9** | 250,000 | 493,500 |
+| **VIP 10** | 500,000 | **993,500** |
 
-## Privileges
-
-The values below are the **total** bonus at each level, not an amount added per level.
-
-| Privilege                | Unit  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
-| ------------------------ | ----- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| **Instant Speedup Free** | min   | 10 | 11 | 12 | 13 | 14 | 15 | 17 | 20 | 25 | 30 |
-| **Food Income**          | %     | 4  | 6  | 8  | 10 | 12 | 14 | 16 | 18 | 20 | 25 |
-| **Wood Income**          | %     | 4  | 6  | 8  | 10 | 12 | 14 | 16 | 18 | 20 | 25 |
-| **Iron Income**          | %     | 4  | 6  | 8  | 10 | 12 | 14 | 16 | 18 | 20 | 25 |
-| **Mithril Income**       | %     | 4  | 6  | 8  | 10 | 12 | 14 | 16 | 18 | 20 | 25 |
-| **Mob March Speed**      | %     | —  | 5  | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 50 |
-| **March Speed**          | %     | —  | —  | —  | —  | 5  | 6  | 7  | 8  | 9  | 10 |
-| **Total Marches Bonus**  | March | —  | —  | —  | —  | —  | —  | —  | 1  | 1  | 1  |
-| **Troop Attack**         | %     | —  | —  | —  | —  | —  | —  | —  | —  | 10 | 15 |
-| **Troop Defense**        | %     | —  | —  | —  | —  | —  | —  | —  | —  | 10 | 15 |
-| **Troop Health**         | %     | —  | —  | —  | —  | —  | —  | —  | —  | —  | 15 |
-| **Hospital Capacity**    | %     | —  | —  | —  | —  | —  | —  | —  | —  | —  | 30 |
-
-### Total Marches Bonus
-
-This privilege grants **one** additional march slot, not one per level.
-
-```
-VIP 8, VIP 9 and VIP 10 all grant the same +1 march slot
-```
-
-A VIP 10 account has 3 march slots in total: 2 base slots plus 1 from VIP.
-
-The extra slot is available only while VIP Privileges are active.
-
-### Instant Speedup Free
-
-This is the only privilege that is not a percentage. It is a time threshold, measured in minutes.
-
-```
-Remaining time at or below the threshold: Speed Up Now costs 0 Gold
-Remaining time above the threshold:       Speed Up Now costs the normal price
-```
-
-It applies to **construction and upgrades only**. Troop training, healing and instant claims always cost the full price.
-
-### Stacking
-
-VIP bonuses add to bonuses from other sources, such as Alliance Forts and Research. A 10% March Speed bonus from a Fort and a 10% March Speed privilege from VIP 10 combine into 20%.
-
-## The Daily VIP Chest
-
-Every VIP level has its own chest, and it can be claimed **once per day**.
-
-```
-Resets at the daily reset, together with Daily Quests
-```
-
-The chest is not a 24-hour timer from your last claim. It becomes available again at the daily reset regardless of when you claimed it.
-
-### Contents
-
-Every chest contains:
-
-* A **guaranteed** amount of VIP Points.
-* **One** random item.
-
-| VIP Level               | 1   | 2   | 3   | 4   | 5   | 6     | 7     | 8     | 9     | 10    |
-| ----------------------- | --- | --- | --- | --- | --- | ----- | ----- | ----- | ----- | ----- |
-| Guaranteed VIP Points   | 100 | 200 | 300 | 600 | 900 | 1,200 | 2,000 | 3,000 | 4,000 | 6,000 |
-
-The random item is drawn from resource packs, Global Speed Ups, March Speed Ups, Shields and Teleport Scrolls.
-
-### How VIP Level Changes the Chest
-
-A higher VIP Level does not add more items. It changes **which** item you are likely to receive.
-
-At low levels the chest favours small rewards. As your level rises, the typical reward moves up the value scale and small rewards become rare.
-
-| Reward Value  | VIP 1 | VIP 5 | VIP 10 |
-| ------------- | ----- | ----- | ------ |
-| Very Low      | 78.7% | 32.5% | 6.0%   |
-| Low           | 14.4% | 29.2% | 17.9%  |
-| Medium        | 5.5%  | 22.2% | 23.7%  |
-| High          | 1.0%  | 6.5%  | 10.2%  |
-| Very High     | 0.3%  | 4.8%  | 14.6%  |
-| Highest       | 0.2%  | 4.9%  | 27.6%  |
+The points required for a new level are consumed when you reach it. Any extra points carry over toward the next level, so a large gain can increase your VIP Level several times at once.
 
 {% hint style="info" %}
-The most valuable rewards stay the rarest at every level. A higher VIP Level improves your odds of reaching the top tiers, but never makes the best item common.
+VIP Points earned after reaching VIP 10 are not lost. They remain stored on your account and can be used automatically if additional VIP Levels are introduced in the future.
 {% endhint %}
 
-Between the guaranteed points and the daily draw, the chest alone raises your VIP Level over time — but Gold spending remains by far the faster route.
+## Activating VIP
+
+Your VIP Level is permanent, but its bonuses must be activated with **VIP activation items**.
+
+| VIP Item | VIP Duration | Store Price |
+| --- | ---: | ---: |
+| **60-Minute VIP** | 1 hour | Reward only |
+| **1-Day VIP** | 1 day | 250 Gold |
+| **7-Day VIP** | 7 days | 1,500 Gold |
+| **30-Day VIP** | 30 days | 4,000 Gold |
+
+The **60-Minute VIP** item is obtained from rewards and chests and is not sold directly in the Store.
+
+Using another activation item while VIP is already active adds its duration to the time remaining; it does not replace it.
+
+> 2 days of VIP remaining + 7-Day VIP item = 9 days of VIP remaining.
+
+Gold spent on VIP activation items also grants VIP Points normally.
+
+## VIP Bonuses
+
+Your VIP Level determines the strength of your bonuses. The values below show the **total bonus at each VIP Level**, not an additional amount added for every previous level.
+
+All VIP bonuses only apply while VIP is active.
+
+### Economy & Construction Bonuses
+
+The Resource Income bonus applies to **Food, Wood, Iron and Mithril**.
+
+| VIP Level | Resource Income | Free Build Finish |
+| --- | ---: | ---: |
+| **VIP 1** | +4% | 10 min |
+| **VIP 2** | +6% | 11 min |
+| **VIP 3** | +8% | 12 min |
+| **VIP 4** | +10% | 13 min |
+| **VIP 5** | +12% | 14 min |
+| **VIP 6** | +14% | 15 min |
+| **VIP 7** | +16% | 17 min |
+| **VIP 8** | +18% | 20 min |
+| **VIP 9** | +20% | 25 min |
+| **VIP 10** | +25% | 30 min |
+
+#### Free Build Finish
+
+Free Build Finish lets you instantly complete a building for **0 Gold** when its remaining construction or upgrade time is equal to or below the threshold for your VIP Level.
+
+For example, at VIP 10:
+
+> A building with 30 minutes or less remaining can be completed instantly for 0 Gold.
+
+This bonus applies to building construction and upgrades. It does not apply to troop training, troop healing or unrelated instant completion actions.
+
+### March & Combat Bonuses
+
+| VIP Level | Monster March Speed | March Speed | Extra March | Troop ATK | Troop DEF | Troop HP | Hospital Capacity |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **VIP 1** | — | — | — | — | — | — | — |
+| **VIP 2** | +5% | — | — | — | — | — | — |
+| **VIP 3** | +10% | — | — | — | — | — | — |
+| **VIP 4** | +15% | — | — | — | — | — | — |
+| **VIP 5** | +20% | +5% | — | — | — | — | — |
+| **VIP 6** | +25% | +6% | — | — | — | — | — |
+| **VIP 7** | +30% | +7% | — | — | — | — | — |
+| **VIP 8** | +35% | +8% | +1 | — | — | — | — |
+| **VIP 9** | +40% | +9% | +1 | +10% | +10% | — | — |
+| **VIP 10** | +50% | +10% | +1 | +15% | +15% | +15% | +30% |
+
+#### Extra March
+
+Starting at **VIP 8**, active VIP provides **+1 March Slot**. This remains +1 at VIP 9 and VIP 10; it does not increase at those levels.
+
+With the current base value of two marches:
+
+> 2 Base Marches + 1 VIP March = 3 Total Marches.
+
+The extra slot is available only while VIP is active.
+
+#### Bonus Stacking
+
+VIP bonuses stack additively with compatible bonuses from other game systems. For example:
+
+* +10% March Speed from an Alliance Fort.
+* +10% March Speed from VIP.
+* **+20% March Speed total.**
+
+## Daily VIP Chest
+
+The Daily VIP Chest can be claimed **once per daily reset while VIP is active**. It resets together with the normal daily game reset.
+
+{% hint style="info" %}
+The chest does not use a 24-hour countdown from your previous claim. It becomes available again at the next daily reset.
+{% endhint %}
+
+Every Daily VIP Chest contains:
+
+* Guaranteed VIP Points.
+* One random reward.
+
+### Guaranteed VIP Points
+
+| VIP Level | Guaranteed VIP Points |
+| --- | ---: |
+| **VIP 1** | 100 |
+| **VIP 2** | 200 |
+| **VIP 3** | 300 |
+| **VIP 4** | 600 |
+| **VIP 5** | 900 |
+| **VIP 6** | 1,200 |
+| **VIP 7** | 2,000 |
+| **VIP 8** | 3,000 |
+| **VIP 9** | 4,000 |
+| **VIP 10** | 6,000 |
+
+### Random Reward
+
+In addition to the guaranteed VIP Points, the chest contains **one random item**. Possible rewards include:
+
+* Resource Packs.
+* Global Speed Ups.
+* March Speed Ups.
+* Shields.
+* Teleport Scrolls.
+
+Higher VIP Levels improve your chances of receiving more valuable rewards. They do not increase the number of random items in the chest.
+
+{% hint style="info" %}
+Higher VIP Levels improve your chances of receiving stronger rewards, but the reward is still random.
+{% endhint %}
+
+## Important VIP Rules
+
+* Your **VIP Level is permanent** and never decreases.
+* VIP bonuses work only while **VIP is active**.
+* VIP activation items add to your remaining VIP time.
+* Every **1 Gold spent grants 1 VIP Point**.
+* Buying a VIP Point item with Gold grants points from both the item and the Gold spent.
+* VIP Point items obtained without spending Gold grant only the points contained in the item.
+* Extra VIP Points carry over toward the next VIP Level.
+* The **+1 March Slot** starts at VIP 8 and does not increase at VIP 9 or VIP 10.
+* The Daily VIP Chest can be claimed once per daily reset while VIP is active.
+* Higher VIP Levels improve the potential rewards from the Daily VIP Chest.
