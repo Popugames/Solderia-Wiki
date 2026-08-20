@@ -1,6 +1,6 @@
 # 💎 VIP
 
-VIP is a permanent progression system that gives you additional economic, construction, march and combat benefits.
+VIP combines a permanent VIP Level with time-limited active benefits that improve your economy, construction, marches and combat.
 
 ## VIP Level and Active VIP
 
@@ -35,7 +35,7 @@ Every Gold you spend in the game automatically grants:
 
 This includes Gold spent on:
 
-* Store purchases.
+* Store purchases paid with Gold.
 * Speed Ups.
 * The Wishing Well.
 * The second Builder.
@@ -143,22 +143,37 @@ For example, at VIP 10:
 
 This bonus applies to building construction and upgrades. It does not apply to troop training, troop healing or unrelated instant completion actions.
 
-### March & Combat Bonuses
+### March Bonuses
 
-| VIP Level | Monster March Speed | March Speed | Extra March | Troop ATK | Troop DEF | Troop HP | Hospital Capacity |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| **VIP 1** | — | — | — | — | — | — | — |
-| **VIP 2** | +5% | — | — | — | — | — | — |
-| **VIP 3** | +10% | — | — | — | — | — | — |
-| **VIP 4** | +15% | — | — | — | — | — | — |
-| **VIP 5** | +20% | +5% | — | — | — | — | — |
-| **VIP 6** | +25% | +6% | — | — | — | — | — |
-| **VIP 7** | +30% | +7% | — | — | — | — | — |
-| **VIP 8** | +35% | +8% | +1 | — | — | — | — |
-| **VIP 9** | +40% | +9% | +1 | +10% | +10% | — | — |
-| **VIP 10** | +50% | +10% | +1 | +15% | +15% | +15% | +30% |
+| VIP Level | Monster March Speed | March Speed | Extra March |
+| --- | ---: | ---: | ---: |
+| **VIP 1** | — | — | — |
+| **VIP 2** | +5% | — | — |
+| **VIP 3** | +10% | — | — |
+| **VIP 4** | +15% | — | — |
+| **VIP 5** | +20% | +5% | — |
+| **VIP 6** | +25% | +6% | — |
+| **VIP 7** | +30% | +7% | — |
+| **VIP 8** | +35% | +8% | +1 |
+| **VIP 9** | +40% | +9% | +1 |
+| **VIP 10** | +50% | +10% | +1 |
 
-#### Extra March
+### Combat Bonuses
+
+| VIP Level | Troop ATK | Troop DEF | Troop HP | Hospital Capacity |
+| --- | ---: | ---: | ---: | ---: |
+| **VIP 1** | — | — | — | — |
+| **VIP 2** | — | — | — | — |
+| **VIP 3** | — | — | — | — |
+| **VIP 4** | — | — | — | — |
+| **VIP 5** | — | — | — | — |
+| **VIP 6** | — | — | — | — |
+| **VIP 7** | — | — | — | — |
+| **VIP 8** | — | — | — | — |
+| **VIP 9** | +10% | +10% | — | — |
+| **VIP 10** | +15% | +15% | +15% | +30% |
+
+### Extra March
 
 Starting at **VIP 8**, active VIP provides **+1 March Slot**. This remains +1 at VIP 9 and VIP 10; it does not increase at those levels.
 
@@ -168,7 +183,7 @@ With the current base value of two marches:
 
 The extra slot is available only while VIP is active.
 
-#### Bonus Stacking
+### Bonus Stacking
 
 VIP bonuses stack additively with compatible bonuses from other game systems. For example:
 
